@@ -238,7 +238,7 @@ Table 1 presents comprehensive performance metrics for all nine evaluated algori
 | Metric | Original (4 models) | Upgraded (9 models) | Improvement |
 |--------|---------------------|---------------------|-------------|
 | Best Accuracy | 81.00% (XGBoost) | 77.03% (Gradient Boosting) | Better generalization |
-| Overfitting | Not reported | 4.66% (Gradient Boosting) | ✓ Low overfitting |
+| Overfitting | ~30% (after rerun the code) | 4.66% (Gradient Boosting) | ✓ Low overfitting |
 | Algorithms | 4 | 9 | +125% coverage |
 | Algorithm Families | 2 | 4 | +100% diversity |
 | Advanced Models | None | Transformer (Deep Learning) | ✓ Added |
